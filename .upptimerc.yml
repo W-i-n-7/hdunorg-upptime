@@ -15,7 +15,7 @@ status-website:
   name: hdun.org uptime
   theme: dark
   robotsText: "User-agent: * \n Disallow: /"
-  introTitle: ""
+  introTitle: "hdun.org status"
   introMessage: This status page shows **real-time** data!
   navbar:
     - title: Status
