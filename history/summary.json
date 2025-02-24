@@ -4,18 +4,19 @@
     "url": "https://hdun.org",
     "icon": "https://icons.duckduckgo.com/ip3/hdun.org.ico",
     "slug": "hdun",
-    "status": "up",
-    "uptime": "99.81%",
+    "status": "down",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 620,
     "timeDay": 702,
     "timeWeek": 620,
     "timeMonth": 620,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2025-02-24": 0,
       "2025-02-22": 6
     }
   }
